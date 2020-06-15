@@ -1,3 +1,3 @@
-Weather App called Clima built with Swift on Xcode. Used the OpenWeather API, JSON Decoding and did error handling. 
+Standard chat app that used Firebase to store the users and messages, installed pods and used firestore to Retrieve Data.
 
-YouTube Demo Link: https://youtu.be/NtPfOWNkMjg
+Github link: https://youtu.be/GPVwlmyOPTc
